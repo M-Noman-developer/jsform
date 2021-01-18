@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    background-image: url('img.jpg');
+}
+label{
+    color: rgb(219, 154, 13);
+}
+input{
+    color: rgb(207, 44, 4);
+}
